@@ -1,0 +1,1 @@
+export type Project={id:string;title:string;description:string;tags:string[];image:string;url?:string;github?:string;role?:string;challenge?:string;solution?:string;published?:boolean;createdAt?:string};
